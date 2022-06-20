@@ -11,3 +11,11 @@
 
     }
 </script>
+
+<style>
+    h1 {
+        position: relative;
+        z-index: 3;
+        color: white;
+    }
+</style>
